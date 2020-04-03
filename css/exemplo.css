@@ -1,6 +1,12 @@
 /* folha de estilo para testar algumas alterações */
 
-#l1{
-    color: blue;
-    text-align: center;
+
+
+figure {
+     
+    float: left;
+
+    width: 300px;
+    margin: 0 15px 15px 10px;
+
 }
